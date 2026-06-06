@@ -1,5 +1,9 @@
 # Wapi Desk — Landing Page
 
+<p align="center">
+  <img src="public/banner.png" alt="Wapi Desk" width="100%">
+</p>
+
 A modern, fully responsive landing page for **Wapi Desk**, a WhatsApp Business API platform with multi-tenant CRM capabilities.
 
 ## Features

@@ -4,7 +4,9 @@
   <img src="public/banner.png" alt="Wapi Desk" width="100%">
 </p>
 
-A modern, fully responsive landing page for **Wapi Desk**, a WhatsApp Business API platform with multi-tenant CRM capabilities.
+A responsive landing page for **Wapi Desk**, a WhatsApp Business API platform with multi-tenant CRM capabilities.
+
+A student project from my internship at **Sawariya Solution**, Vadodara.
 
 ## Features
 
@@ -37,7 +39,7 @@ wapi-desk-landing/
 
 1. Navigation (sticky, scrolled state, mobile menu)
 2. Hero (badge, headline, CTA buttons, phone mockup)
-3. Stats bar (500+ businesses, 2M+ messages, 99% uptime, 24/7 support)
+3. Stats bar (animated counters)
 4. Features grid (6 cards with icons)
 5. How it works (3-step timeline)
 6. Features checklist + CTA card
